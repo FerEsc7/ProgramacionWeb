@@ -8,8 +8,8 @@ using System.Data;
 using _00_ProgramacionWeb.Include;
 
 namespace _00_ProgramacionWeb.Conexion
-{
-    public class Consultas
+}
+public class Consultas
     {
         MySqlConnection conexion;
         MySqlDataAdapter adaptador = new MySqlDataAdapter();
